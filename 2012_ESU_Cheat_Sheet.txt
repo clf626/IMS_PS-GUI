@@ -1,0 +1,23 @@
+ESU MAK Key/Product Key: NPY7Q-MJ7BR-VGQDH-XB82Q-H2483
+ESU Activation ID: c0a2ea62-12ad-435b-ab4f-c9bfab48dbc4
+
+TO INSTALL LICENSE
+
+cscript /Nologo "C:\Windows\System32\slmgr.vbs" /ipk NPY7Q-MJ7BR-VGQDH-XB82Q-H2483
+
+TO ACTIVATE ONLINE
+
+cscript /Nologo "C:\Windows\System32\slmgr.vbs" /ato c0a2ea62-12ad-435b-ab4f-c9bfab48dbc4
+
+TO GET INSTALLATION ID
+
+cscript /Nologo "C:\Windows\System32\slmgr.vbs" /dti c0a2ea62-12ad-435b-ab4f-c9bfab48dbc4
+
+slmgr /atp 530613220156070525563812662134925960734372496744 c0a2ea62-12ad-435b-ab4f-c9bfab48dbc4
+
+
+
+
+
+
+
